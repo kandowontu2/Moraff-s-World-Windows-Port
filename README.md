@@ -13,7 +13,7 @@ Moraff's Revenge bonus game is bundled and remains MoraffWare property.
 ## Download and installation
 
 Download the Windows x64 ZIP from the
-[latest GitHub release](https://github.com/kandowontu/Moraff-s-World-Windows-Port/releases/latest),
+[latest GitHub release](https://github.com/kandowontu2/Moraff-s-World-Windows-Port/releases/latest),
 extract it into a writable directory, and copy these ten files from a legally
 obtained Moraff's World installation directly beside `moraffs_world.exe`:
 
